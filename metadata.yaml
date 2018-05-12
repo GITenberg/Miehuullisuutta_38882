@@ -1,0 +1,32 @@
+_repo: Miehuullisuutta_38882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amichis, Edmondo de
+    - Amicis, Edmundo de
+    - Amicis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38882'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- Translations into Finnish'
+title: Miehuullisuutta
+url: http://www.gutenberg.org/ebooks/38882
